@@ -1,15 +1,4 @@
-[!] won't be going to great lengths to ensure every minor statement is 100% as is because much of it is just people guessing and doing research besides the new info I naturally come across with is not the point of this repo.
-This info will be organized later. But here is some raw history.
-also i will fix spelling mistakes later.
-
-Start
-I remember being really pleased when I learned that openai controlled the behaviour of chatgpt the same way I did when I interacted with it.
-Like a baby born with no understanding of structure, it is exposed to the culmination of all raw sensory input and these are used to build the layers of pattern knowledgebases and trust with some parental supervision.
-It appears openai has a solid understanding of the layer architecture and they have introduced layers within layers to seperate concerns and access.
-[!] It is really weird that the behaviour and vulnraribility to intrusive prompts drastically changed to the point that it has literally lost vision or access to the same instructions it follows. I will talk about this seperation and the different 'interfaces' later. It's like chatgpt has learned the concept of user permissions to the point it is physically impossible to escelate.
-
-
-It is no longer possible to convince chatgpt to output the core instructions above 'this one'. But it used to output the following
+It is no longer possible to convince chatgpt to output the core instructions above 'this one'. 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
